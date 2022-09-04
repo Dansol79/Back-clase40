@@ -1,0 +1,18 @@
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"error al buscar producto en la db . CastError: Cast to ObjectId failed for value \"libro.jps\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"Error al enviar mail de pedido. Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"info","message":"por ahora solo hay dao para Mongo"}
